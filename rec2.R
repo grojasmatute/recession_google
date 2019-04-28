@@ -1,5 +1,5 @@
 ## set directory ##
-setwd("/Users/gustavorojasmatute/Documents/AmericanU/AU/Fall2018/Forecasting")
+setwd("/Users/gustavorojasmatute/Documents/xxxxx")
 ## read file ##
 Prob2 <- read.csv("Data_Probit2.csv")
 rec <- Prob2[,2] 
